@@ -32,14 +32,7 @@ This project is currently in development and aimed for future commercialization.
 
 ## 🖼 Screenshots
 
-### Desktop
-![Desktop view](./assets/screenshots/desktop.png)
-
-### Mobile
-![Mobile view](./assets/screenshots/mobile.png)
-
-### Interaction
-![Interaction](./assets/screenshots/interaction.png)
+(Screenshots coming soon – demo mode in progress)
 
 ---
 
