@@ -1,6 +1,6 @@
 # Contributing
 
-This is a **portfolio showcase project**, not open source.
+This is a **portfolio showcase project** for educational purposes only.
 
 ## Feedback & Discussions
 
@@ -11,18 +11,25 @@ We welcome feedback on the design, functionality, and implementation:
 
 ## Pull Requests
 
-**Pull requests cannot be merged** to this showcase repository. However:
+**Pull requests are not accepted** to this repository. This is a read-only showcase of work.
 
-- You're welcome to fork the repository and adapt it for your own projects
-- Use it as inspiration for your own applications
-- Build on the patterns and approach for your own inventory management system
+However, you're welcome to:
+- Fork the repository for your own learning
+- Use the patterns and architecture as inspiration for your own projects
+- Reference the code in your portfolio or discussions
+- Study the implementation approach
 
-## License
+## Commercial Use
 
-This project is licensed under the MIT License — see [LICENSE](./LICENSE) file for details.
+**Commercial use of this code is prohibited** without explicit permission. See [LICENSE](./LICENSE) for details.
 
-You're free to use this code as inspiration or reference for your own projects. If you do, a mention or attribution would be appreciated! 😊
+If you're interested in licensing, partnerships, or commercial inquiries:
+📧 mariabrownlejarraga@gmail.com
+
+## Learning & Attribution
+
+This code is open for learning and reference. If you adapt patterns or approaches from this project, we appreciate attribution! 😊
 
 ---
 
-**Questions?** Open a discussion or check the [README](./README.md) for more info.
+**Questions?** Check the [README](./README.md) or open a discussion.
